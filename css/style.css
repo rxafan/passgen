@@ -1,0 +1,10 @@
+label {
+    display: block;
+}
+
+.passgen{
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
